@@ -1,5 +1,5 @@
 # **TRY HERE**
-<a href="https://study-notion-orcin.vercel.app/"> Live demo</a>
+This application is deployed on Vercel Please check it out 😄 <a href="https://study-notion-orcin.vercel.app/"> Live demo</a>.
 
 
 # React & Tailwind CSS Starter Pack
