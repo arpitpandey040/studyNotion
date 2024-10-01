@@ -1,5 +1,5 @@
 # **TRY HERE**
-https://study-notion-orcin.vercel.app/
+<a href="https://study-notion-orcin.vercel.app/"> Live demo</a>
 
 
 # React & Tailwind CSS Starter Pack
